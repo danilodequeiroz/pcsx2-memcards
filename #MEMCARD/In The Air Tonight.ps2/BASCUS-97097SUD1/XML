@@ -1,0 +1,30 @@
+<Registration-Data>
+<Version>1.0.47</Version>
+<Data ScreenCount="1">
+<Screen FieldCount="4">
+	<Field Length="40" Type="TextField" isRequired="false" x="0" y="0">
+		<Name Key="firstname"></Name>
+		<ValueList ValueCount="1"><Value Column="0">Danilo</Value></ValueList>
+	</Field>
+	<Field Length="40" Type="TextField" isRequired="false" x="0" y="0">
+		<Name Key="lastname"></Name>
+		<ValueList ValueCount="1"><Value Column="0">de Queiroz</Value></ValueList>
+	</Field>
+	<Field Length="0" Type="DOB" isRequired="false" x="0" y="0">
+		<Name Key="dob"></Name>
+		<ValueList ValueCount="1"><Value Column="0">07/10/1987</Value></ValueList>
+	</Field>
+	<Field Length="40" Type="TextField" isRequired="false" x="0" y="0">
+		<Name Key="email"></Name>
+		<ValueList ValueCount="1"><Value Column="0">danilo.aq@gmail.com</Value></ValueList>
+	</Field>
+</Screen>
+</Data>
+<Bounty>
+<SerialNumber>0000000000000000</SerialNumber>
+<MacAddress>00:00:00:00:00:00</MacAddress>
+<ZipCode>00000</ZipCode>
+<ISPTransactionID>0</ISPTransactionID>
+<ClientVersion>1.3.17a</ClientVersion>
+</Bounty>
+</Registration-Data>
